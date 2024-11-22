@@ -2,7 +2,7 @@
 
 # [nfridoy's Portfolio Website](https://nfridoy.vercel.app)
 
-Table of Contents
+## Table of Contents
 
 - [nfridoy's Portfolio Website Live Link](https://nfridoy.vercel.app)
 - [About Me](#about-me)
